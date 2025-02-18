@@ -29,3 +29,9 @@ The dataset is sourced from Kaggle:
    git clone https://github.com/yourusername/Meningioma-Binary-Classifier.git
    cd Meningioma-Binary-Classifier
    ```
+
+2. Run the model
+
+   Option 1: Run all code blocks to train and test the model.
+
+   Option 2: Run the pre-trained model with a new image
