@@ -35,3 +35,5 @@ The dataset is sourced from Kaggle:
    Option 1: Run all code blocks to train and test the model.
 
    Option 2: Run the pre-trained model with a new image
+
+NOTE: Populate image paths according to your specific path when making predictions with the model.
